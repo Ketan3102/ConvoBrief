@@ -9,5 +9,8 @@ app_file: ConvoBrief.py
 pinned: false
 license: mit
 ---
-# ConvoBrief
+
+Feel free to checkout: [Link to application](https://huggingface.co/spaces/Ketan3101/ConvoBrief)
+
+# ConvoBrief: Dialogue Summarizer
 Dialogue Summarization using PEFT and LoRA
